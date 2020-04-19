@@ -1,4 +1,4 @@
-name: harvey
+name: bvp
 channels:
   - conda-forge
 dependencies:
@@ -11,5 +11,4 @@ dependencies:
   - jupyterlab
   - requests
   - pip:
-    - nb_black
-    - axelrod
+      - nb_black
